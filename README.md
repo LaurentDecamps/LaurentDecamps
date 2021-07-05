@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[FR] (EN below)
+[FR] (EN below)<br>
 Je suis ingénieur en informatique français spécialisé en développement front.
 - 🔭 Je travaille sur un projet en front et en back utilisant Angular, Node Express et MongoDB
 - 🌱 J'apprend les technologies de développement front en général (HTML/CSS/BootStrap, Angular, Ionic, React).
 <br>
 
-[EN] 
+[EN] <br>
 I am a french front end developper freelancer.
 - 🔭 Working on frontend and backend project using Angular, Node Express and MongoDB
 - 🌱 Learning Front in general.

@@ -24,7 +24,7 @@ Je suis ingénieur en informatique français spécialisé en développement fron
 [EN] <br>
 I am a french front end developper freelancer.
 - 🔭 Working on frontend and backend project using Angular, Node Express and MongoDB
-- 🌱 Learning Front in general.
+- 🌱 Learning Front in general (HTML/CSS/BootStrap, Angular, Ionic, React).
 <br>
 
 ## Connectez vous avec moi

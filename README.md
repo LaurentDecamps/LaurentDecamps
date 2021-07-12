@@ -15,18 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[FR] (EN below)<br>
+[FR] (EN below)  
 Je suis ingénieur en informatique français spécialisé en développement front.
 - 🔭 Je travaille sur un projet en front et en back utilisant Angular, Node Express et MongoDB
 - 🌱 J'apprend les technologies de développement front en général (HTML/CSS/BootStrap, Angular, Ionic, React).
-<br>
-
-[EN] <br>
+  
+[EN]  
 I am a french front end developper freelancer.
 - 🔭 Working on frontend and backend project using Angular, Node Express and MongoDB
 - 🌱 Learning Front in general (HTML/CSS/BootStrap, Angular, Ionic, React).
-<br>
+  
 
-## Connectez vous avec moi
+## Connectez vous avec moi / Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laurent-d%C3%A9camps-99407418/)
+
+## Connaissance / Knowledge
+<img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?&style=for-the-badge&logo=angular" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="Microsoft Sql Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />

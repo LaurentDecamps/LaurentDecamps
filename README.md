@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [FR] (EN below)  
-Je suis ingénieur en informatique français spécialisé en développement front.
+Je suis ingénieur freelance en informatique français spécialisé en développement front.
 - 🔭 Je travaille sur un projet en front et en back utilisant Angular, Node Express et MongoDB
 - 🌱 J'apprend les technologies de développement front en général (HTML/CSS/BootStrap, Angular, Ionic, React).
   

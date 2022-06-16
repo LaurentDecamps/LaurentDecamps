@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 [FR] (EN below)  
 Je suis ingénieur freelance en informatique français spécialisé en développement front.
-- 🔭 Je travaille sur un projet en front et en back utilisant Angular et .NET 
-- 🌱 J'apprend les technologies de développement front en général (HTML/CSS/BootStrap, Angular, Ionic, React).
+- 🔭 Je travaille sur un projet en front et en back utilisant React, .NET et Python (via AWS Lambda) 
+- 🌱 J'apprend les technologies de développement front en général (HTML/CSS/BootStrap, React, Angular, Ionic).
   
 [EN]  
 I am a french front end developper freelancer.
-- 🔭 Working on frontend and backend project using Angular et .NET
-- 🌱 Learning Front in general (HTML/CSS/BootStrap, Angular, Ionic, React).
+- 🔭 Working on frontend and backend project using React, .NET and Python (AWS Lambda) 
+- 🌱 Learning Front in general (HTML/CSS/BootStrap, React, Angular, Ionic).
   
 
 ## Connectez vous avec moi / Connect with me

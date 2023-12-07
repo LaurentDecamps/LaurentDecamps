@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 -->
 
 [FR] (EN below)  
-Je suis ingénieur freelance en informatique français spécialisé en développement front.
-- 🔭 Je travaille sur un projet en front et en back utilisant React, .NET et Python (via AWS Lambda) 
-- 🌱 J'apprend les technologies de développement front en général (HTML/CSS/BootStrap, React, Angular, Ionic).
+Je suis ingénieur freelance en informatique français spécialisé en développement fullstack en .NET et JS (React/Angular) et le craft.
+- 🔭 Je travaille en tant que formateur .Backend Net [chez Simplon](https://github.com/simplon-lille-csharp-dotnet) un réseau de fabriques numériques et inclusives en France et à l’étranger.
+- 🌱 J'approfondi mes connaissances en .Net et je suis une formation Docker en parallèle.
   
 [EN]  
-I am a french front end developper freelancer.
-- 🔭 Working on frontend and backend project using React, .NET and Python (AWS Lambda) 
-- 🌱 Learning Front in general (HTML/CSS/BootStrap, React, Angular, Ionic).
+I am a french fullstack developper freelancer in .NET and JS (React/Angular) and craft.
+- 🔭 I work as a .Backend Net trainer [at Simplon](https://github.com/simplon-lille-csharp-dotnet), a network of inclusive digital factories in France and abroad.
+- 🌱 I'm deepening my knowledge of .Net and taking a Docker course at the same time.
   
 
 ## Connectez vous avec moi / Connect with me
   
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laurent-d%C3%A9camps-99407418/)  
+- 📫 decamps.laurentATgmail.com
+- [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laurent-d%C3%A9camps-99407418/)  
   
 <br>
 

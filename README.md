@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 [FR] (EN below)  
-Je suis ingénieur freelance en informatique français spécialisé en développement fullstack en .NET et JS (React/Angular) et le craft.
-- 🔭 Je travaille en tant que formateur .Backend Net [chez Simplon](https://github.com/simplon-lille-csharp-dotnet) un réseau de fabriques numériques et inclusives en France et à l’étranger.
-- 🌱 J'approfondi mes connaissances en .Net et je suis une formation Docker en parallèle.
+Je suis ingénieur freelance en informatique français spécialisé en développement fullstack en .NET et JS (React/Angular) et qui aime le [craft](https://manifesto.softwarecraftsmanship.org/#/fr-fr).
+- 🔭 Je travaille en tant que développement fullstack en .NET et React chez [Talosi](https://www.talosi.com/) (ma maison en finnois)
+- 🌱 J'approfondi mes connaissances en .Net et en React
   
 [EN]  
-I am a french fullstack developper freelancer in .NET and JS (React/Angular) and craft.
-- 🔭 I work as a .Backend Net trainer [at Simplon](https://github.com/simplon-lille-csharp-dotnet), a network of inclusive digital factories in France and abroad.
-- 🌱 I'm deepening my knowledge of .Net and taking a Docker course at the same time.
+I am a french fullstack developper freelancer in .NET and JS (React/Angular) who love craft [craft](https://manifesto.softwarecraftsmanship.org/).
+- 🔭 I'm working as a fullstack developer in .NET and React at [Talosi](https://www.talosi.com/) (my home in Finnish)
+- 🌱 I'm deepening my knowledge of .Net and React
   
 
 ## 📫 Connectez vous avec moi / Connect with me
